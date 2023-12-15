@@ -11,3 +11,8 @@ Discover my proficiency in Python, SQL, machine learning, and data visualization
 
 ## BCX Project
 As the Project Lead for BCX, I crafted insightful dashboards analyzing opportunity win-loss trends. This project underscores my skills in project management, data interpretation, and dashboard creation. Dive into the repository for a closer look at how I contributed to BCX's strategic decision-making process.
+
+---
+
+*Projects are more than tasks; they're stories in code, data, and strategy. Each achievement reflects a commitment to innovation. As the author of these endeavors, I believe in transforming data into actionable brilliance.*  
+*— Edna Kobo, Data Enthusiast and Project Innovator*
