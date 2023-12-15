@@ -2,7 +2,7 @@
 
 Explore a curated collection of my projects, showcasing journeys through data analysis, programming, and strategic insights. From machine learning to impactful dashboards, witness my passion for leveraging technology. ExploreAI Academy projects reflect proficiency in Python, SQL, and data visualization. As the Project Lead for BCX, I crafted dashboards analyzing opportunity win-loss trends, showcasing skills in project management, data interpretation, and dashboard creation.
 
-![IMAGE_ACHIEVEMENTS](PROJECT ACHIEVEMENTS.png)
+![Image Alt Text](https://images.pexels.com/photos/1619541/pexels-photo-1619541.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 
 Welcome to my project portfolio! Here, you'll find a curated collection of my endeavors, each representing a journey through the realms of data analysis, programming, and strategic insights. From delving into the intricacies of machine learning to crafting impactful dashboards, these projects showcase my passion for leveraging technology to derive meaningful results. Explore the repository to gain insights into my skills, methodologies, and the impact these projects have had. Let's embark on a data-driven exploration together!
 
