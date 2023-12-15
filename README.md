@@ -15,6 +15,9 @@ As the Project Lead for BCX, I crafted insightful dashboards analyzing opportuni
 ---
 
 <center>
-*Projects are more than tasks; they're stories in code, data, and strategy. Each achievement reflects a commitment to innovation. As the author of these endeavors, I believe in transforming data into actionable brilliance.*  
-                                         — Edna Kobo, Data Enthusiast and Project Innovator
+
+  *Projects are more than tasks; they're stories in code, data, and strategy. Each achievement reflects a commitment to innovation. As the author of these endeavors, I believe in transforming data into actionable brilliance.*  
+                                         
+— Edna Kobo, Data Enthusiast and Project Innovator
+
 </center>
